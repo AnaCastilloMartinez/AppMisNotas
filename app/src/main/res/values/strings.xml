@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mis Notas</string>
+    <string name="nota">Nota</string>
+    <string name="titulo">Título</string>
+    <string name="contenido_nota">Contenido de la nota..</string>
+    <string name="guardar">Guardar</string>
+</resources>
