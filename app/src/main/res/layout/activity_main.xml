@@ -15,7 +15,7 @@
         android:textStyle="bold"
         android:layout_marginTop="10dp"
         android:textAlignment="center"
-        android:textColor="@color/secondaryText"/>
+        android:textColor="@color/colorPrimary"/>
 
     <RelativeLayout
         android:layout_width="match_parent"
