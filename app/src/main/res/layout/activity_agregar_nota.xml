@@ -41,7 +41,7 @@
         android:layout_gravity="center"
         android:backgroundTint="@color/colorPrimary"
         android:textSize="20sp"
-        android:layout_marginTop="450dp"
+        android:layout_marginTop="390dp"
         android:textAllCaps="false"
         android:textColor="@color/primaryText"
         android:text="@string/guardar"/>
